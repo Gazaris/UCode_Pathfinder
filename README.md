@@ -1,6 +1,6 @@
 <head>
     <p align="center">
-        <h2 align="center">This is a repository for my solution of a UCode Pathfinder challenge.</h2>
+        <h2 align="center">This is a repository for my solution of UCode Pathfinder challenge.</h2>
     </p>
 </head>
 
